@@ -2,11 +2,17 @@
 
 ![x](Images/ride.png)
 
-## Pyber - Background
+## Pyber 
 
-The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, you've decided to join a fledgling ride sharing company of your own. In your latest capacity, you'll be acting as Chief Data Strategist for the company. In this role, you'll be expected to offer data-backed guidance on new opportunities for market differentiation.
+In this project, I had the opportunity to analyze  generated data on a fictional ride sharing company . I analyzed the data to determine whether there were  a correlation between the type of city and the average fare. In addition to the analysis, I created visualizations based on the data. 
 
-You've since been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
+Here are the key insights that I was able to find :
+
+There is a correlation between number of rides and the average fare per city. Urban cities the highest number of rides, the highest number of drivers and had the lowest average fare of the three types of cities.
+
+Urban cities have the highest percentage of total fares at 62.97%. Even though rural cities had the highest average fare per city, the rural cities had the smallest segment of the total fares by city pie chart at 6.68%. Urban cities had both the largest percentage of total rides and percentage of drivers.
+This project was done into python and it's dependencies such as Pandas and Numpy .Matplotlib and Seaborn libraries were used as well to create a creative visualizations.
+we have access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
 
 ## Ojbectives
